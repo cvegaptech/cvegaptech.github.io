@@ -1,0 +1,44 @@
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    margin-left:30px;
+    padding:11;
+    overflow: hidden
+}
+#nav{
+  display: inline;
+  font-family:'Crimson Text';
+  font-size: 3em;
+}
+td {
+    float:left;
+}
+
+a:link, a:visited {
+
+    font-weight: bold;
+    color: inherit;
+
+    text-align: center;
+    padding:40px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+a:hover, a:active {
+  color:white;
+}
+
+
+
+
+.top {
+width:100%;
+color:#81BEF7;
+
+}
+
+
+
+#p1{color:#FFFFF6}
