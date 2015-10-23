@@ -11,8 +11,9 @@ ul {
   font-family:'Crimson Text';
   font-size: 3em;
 }
-body :firstchild {
-color:white;
+.content{
+  margin-top: 100px;
+  position:relative;
 }
 td {
     float:left;
@@ -33,15 +34,32 @@ a:hover, a:active {
   color:white;
 }
 
+cursive{font-family: 'Playball', cursive;font-size:6em;}
 
-
-
+new{font-family: 'Noto Serif', serif;}
 .top {
 width:100%;
 color:#81BEF7;
 
 }
 
+border {
+    background-color:inherit;
+    width: 400px;
+    padding: 25px;
+    border: 25px solid inherit;
+    margin: 25px;
+    color: solid white;
+}
+about{
+font-family: 'Montserrat', sans-serif;
+font-size: 2em;}
+contact{
+font-family: 'Pacifico', cursive;font-size: 2em;
+color:#00BFFF;}
 
 
-#p1{color:#FFFFF6}
+
+slant{
+font-family: 'Damion', cursive;
+font-size: 2em;}
