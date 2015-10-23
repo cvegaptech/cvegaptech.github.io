@@ -11,6 +11,9 @@ ul {
   font-family:'Crimson Text';
   font-size: 3em;
 }
+body :firstchild {
+color:white;
+}
 td {
     float:left;
 }
